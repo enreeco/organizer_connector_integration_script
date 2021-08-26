@@ -1,0 +1,14 @@
+{
+  "name": "organizer_connector_integration_script",
+  "homepage": "https://organizer.solutions",
+  "author": "Enrico Murru (https://enree.co/)",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/cli.git"
+  },
+  "dependencies": {
+    "jsforce": "^1.10.1",
+    "request": "^2.88.2"
+  }
+}
